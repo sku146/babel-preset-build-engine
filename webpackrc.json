@@ -1,5 +1,5 @@
 {
-  "presets": [["env", {"modules":false, "loose": true}]],
+  "presets": [["env", {"modules":false, "loose": true}], "flow"],
   "plugins": [
     "transform-es3-member-expression-literals",
     "transform-es3-property-literals",
